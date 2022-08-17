@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.mengqiye.clionpluginfirstblood.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.mengqiye.clionpluginfirstblood.MyBundle
 
 class MyApplicationService {
 
